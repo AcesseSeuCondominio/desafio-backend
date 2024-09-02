@@ -32,6 +32,9 @@ Desenvolver uma API RESTful com Laravel para um sistema de gerenciamento de livr
 6. **Jobs (Opcional)**
    - Após a criação de um livro, uma tarefa em segundo plano (job) deve ser enviada para processar uma ação (ex: envio de um e-mail de confirmação ou registro em log).
 
+7. **Descrição de testes**
+    - Importante conter uma descrição de como testar a aplicação.
+
 ## Documentação
 
 O candidato deve incluir uma documentação clara e concisa, incluindo:
